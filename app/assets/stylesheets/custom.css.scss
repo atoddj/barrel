@@ -1,0 +1,15 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+.bigass {
+  color: green;
+  font-size: 90px !important;  
+}
+
+.jumbotron {
+  background-image: url(http://hdwallpaperia.com/wp-content/uploads/2014/01/Rain-Wallpaper-Free-High-Photography.jpg);
+  height:250px;
+  color:white;
+}
